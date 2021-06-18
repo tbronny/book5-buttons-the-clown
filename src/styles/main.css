@@ -1,0 +1,11 @@
+@import "./style.css";
+
+html {
+    background: url("https://cdn.pixabay.com/photo/2018/01/29/21/16/wall-3117256_960_720.jpg")
+        no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    font-size: 30px;
+}
